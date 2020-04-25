@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\PDC",
     "\\Test-RectSphere",
     "\\Test-RectSphere\\iOS"
   ],
-  "SelectedNode": "\\Test-RectSphere\\iOS",
+  "SelectedNode": "\\PDC",
   "PreviewInSolutionExplorer": false
 }
