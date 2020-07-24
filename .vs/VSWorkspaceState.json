@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Bike",
+    "\\docs",
+    "\\docs\\XLocalizer",
     "\\PDC",
     "\\Test-RectSphere",
     "\\Test-RectSphere\\iOS"
   ],
-  "SelectedNode": "\\Bike\\bike.usdz",
+  "SelectedNode": "\\docs\\XLocalizer\\index.md",
   "PreviewInSolutionExplorer": false
 }
