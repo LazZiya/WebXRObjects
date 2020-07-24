@@ -1,3 +1,3 @@
 # Index Under Test Folder
 
-[Another file](../TestFolder/Another.md)
+[Another file](./Another.md)
