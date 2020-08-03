@@ -1,3 +1,0 @@
-# new
-
-[Main](main.md)
